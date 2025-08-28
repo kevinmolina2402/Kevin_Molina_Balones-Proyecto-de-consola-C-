@@ -1,0 +1,15 @@
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\bin\Debug\net9.0\Balones.exe
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\bin\Debug\net9.0\Balones.deps.json
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\bin\Debug\net9.0\Balones.runtimeconfig.json
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\bin\Debug\net9.0\Balones.dll
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\bin\Debug\net9.0\Balones.pdb
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.AssemblyInfoInputs.cache
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.AssemblyInfo.cs
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.csproj.CoreCompileInputs.cache
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.sourcelink.json
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.dll
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\refint\Balones.dll
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.pdb
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\Balones.genruntimeconfig.cache
+D:\Programacion de software\parcial\Kevin_Molina_Balones-Proyecto-de-consola-C-\Balones\obj\Debug\net9.0\ref\Balones.dll
